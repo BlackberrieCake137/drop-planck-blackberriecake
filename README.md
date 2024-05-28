@@ -17,5 +17,6 @@ To-Dos:
 - screw around more
 - add mouse keys
 - add F6 (Fn K is currently vacant, filled with a placeholder ampersand because its fitting for "kai" ("and" in Greek))
+- move the default layout switch key. My ThinkPad-exposed ass keeps accidentally switching layouts when I mean to hit control 
 - go to sleep
 - take over the world 
