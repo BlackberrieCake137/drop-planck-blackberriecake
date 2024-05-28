@@ -1,6 +1,6 @@
 chat should i rename this 
 # swiss-army-planck
-this is my config for my planck keyboard. Seeing as it has only a small amount of keys, everything has to be crammed into layers while simutaneously creating a need for your hand to figure out how to play twister. 
+this is my config for my planck keyboard. Seeing as it has only a small amount of keys, everything has to be crammed into layers while simutaneously you need to make sure you arent making your fingers play twister when trying to press a key
 
 This layout is designed such for a few reasons:
 - i like video games, so default qwerty layer is good for making sure games like roblox arent a hassle to play where otherwise I would have to reach all the way across the keyboard to hit "e"
