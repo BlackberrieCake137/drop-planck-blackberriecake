@@ -1,5 +1,4 @@
-chat should i rename this 
-# swiss-army-planck
+# drop-planck-blackberriecake
 this is my config for my planck keyboard. Seeing as it has only a small amount of keys, everything has to be crammed into layers while simutaneously you need to make sure you arent making your fingers play twister when trying to press a key
 
 This layout is designed such for a few reasons:
