@@ -1,3 +1,4 @@
+chat should i rename this 
 # swiss-army-planck
 this is my config for my planck keyboard. Seeing as it has only a small amount of keys, everything has to be crammed into layers while simutaneously creating a need for your hand to figure out how to play twister. 
 
